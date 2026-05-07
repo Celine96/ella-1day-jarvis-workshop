@@ -10,35 +10,57 @@ hero:
       text: 시작하기
       link: /prologue
     - theme: alt
-      text: Part 1로 바로
-      link: /part1/1-1-intro
-
-features:
-  - title: 빠짐없이
-    details: 일정·할 일·메일·회의록을 모두 모아 보여드려요. 누락 없이.
-  - title: 아이젠하워 매트릭스
-    details: Q1 Do · Q2 Schedule · Q3 Delegate · Q4 Delete. 4사분면 분류로 결정 비용 제거.
-  - title: 24/7 자동 운영
-    details: 매일 아침 8시·일요일 저녁 8시에 자비스가 알아서 정리해 보내드려요.
+      text: 부록
+      link: /appendix
 ---
 
-# 워크북 소개
+## 목차
 
-이 워크북은 **요한님 전용 시간관리 비서, 자비스**를 만드는 4시간 워크숍의 동반 가이드입니다.
+### 🎬 Prologue (5분)
+- [0. 오늘의 약속](/prologue)
 
-## 워크숍이 끝날 때 손에 남는 것
+### 💡 Part 1 — 자비스 정체성 (55분)
+- [1-1 자비스란 무엇인가](/part1/1-1-intro)
+- [1-2 클로드 코드 + MCP](/part1/1-2-install)
+- [1-3 나만의 자비스 작명 + 인터뷰](/part1/1-3-naming)
+- [1-4 페르소나 자동 작성](/part1/1-4-persona-draft)
 
-- ✅ **나만의 자비스 페르소나** (이름·톤·우선순위 규칙·시간 블록 정책)
-- ✅ **운영 슬래시 커맨드 5종**
-  - `/morning-brief` · `/meeting-prep` · `/meeting-recap` · `/inbox-triage` · `/weekly-review`
-- ✅ **자동 routine 2종** (매일 08:00 + 일요일 20:00 자기발송)
-- ✅ Gmail · Calendar 본인 계정 MCP 연결
-- ✅ 옵션 채널 1개 연결 (LinkedIn / Slack / Notion 중 선택)
+### ✨ Part 2 — 자비스 깨우기 (90분)
+- [2-1 페르소나 완성](/part2/2-1-persona-complete)
+- [2-2 MCP 연결 (읽기)](/part2/2-2-mcp-setup)
+- [2-3 /morning-brief 첫 실행 ⭐](/part2/2-3-morning-brief)
+- [2-4 /meeting-prep + /weekly-review](/part2/2-4-prep-and-review)
 
-## 약속
+### ⚙️ Part 3 — 자비스 일상화 (110분)
+- [3-1 쓰기 권한 + /inbox-triage ⭐](/part3/3-1-write-permission)
+- [3-2 회의록 + /meeting-recap](/part3/3-2-meeting-recap)
+- [3-3 옵션 채널 1개](/part3/3-3-option-channel)
+- [3-4 자동 routine 등록 🎯](/part3/3-4-automation)
+- [3-5 권한 회수 + 다음 단계](/part3/3-5-handoff)
 
-> **"오늘 워크숍 끝나고 집에 가서 주무시고, 내일 아침 8시에 폰에 자비스가 '아이젠하워 매트릭스로 정리한 오늘'을 보내준 것."**
+### 📚 부록
+- [MCP 트러블슈팅 · 권한 회수 · 옵션 채널 레시피](/appendix)
 
-## 시작하기 전에
+---
 
-[🎬 0. 오늘의 약속](/prologue)부터 보시면 좋습니다. 5분.
+## 워크북 사용법
+
+이 워크북은 **직접 따라하며 배우는 실습 중심** 자료입니다.
+
+### 구조
+- **[개념]** — 읽고 이해하는 파트
+- **[실습]** — 직접 수행하는 파트 (슬래시 커맨드 호출)
+- **[체크포인트]** — 진행 상황 확인 + 우와 모먼트 ⭐
+
+### 소요시간
+약 **4시간** (Prologue 5분 + Part 1 55분 + Part 2 90분 + Part 3 110분)
+
+### 사전 준비물
+- 노트북, 인터넷 연결
+- 클로드 코드 설치 (Pro/Max 구독)
+- **본인 Gmail · Google Calendar 계정** — 워크숍 안에서 자비스에 직접 연결
+
+### 학습 모드
+- 완벽 안 해도 됩니다. 자비스는 **대화로 수정**할 수 있어요.
+- 모르는 부분 있으면 멈추고 물어보세요.
+- 민감 정보는 페르소나에 적지 마세요. 자비스 보안 원칙 7가지는 [1-2 §5](/part1/1-2-install#5-자비스의-보안-약속-7가지)에서 자세히.
