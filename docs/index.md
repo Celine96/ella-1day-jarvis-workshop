@@ -12,35 +12,33 @@ hero:
     - theme: alt
       text: 부록
       link: /appendix
----
 
-## 목차
-
-### 🎬 Prologue (5분)
-- [0. 오늘의 약속](/prologue)
-
-### 💡 Part 1 — 자비스 정체성 (55분)
-- [1-1 자비스란 무엇인가](/part1/1-1-intro)
-- [1-2 클로드 코드 + MCP](/part1/1-2-install)
-- [1-3 나만의 자비스 작명 + 인터뷰](/part1/1-3-naming)
-- [1-4 페르소나 자동 작성](/part1/1-4-persona-draft)
-
-### ✨ Part 2 — 자비스 깨우기 (90분)
-- [2-1 페르소나 완성](/part2/2-1-persona-complete)
-- [2-2 MCP 연결 (읽기)](/part2/2-2-mcp-setup)
-- [2-3 /morning-brief 첫 실행 ⭐](/part2/2-3-morning-brief)
-- [2-4 /meeting-prep + /weekly-review](/part2/2-4-prep-and-review)
-
-### ⚙️ Part 3 — 자비스 일상화 (110분)
-- [3-1 쓰기 권한 + /inbox-triage ⭐](/part3/3-1-write-permission)
-- [3-2 회의록 + /meeting-recap](/part3/3-2-meeting-recap)
-- [3-3 옵션 채널 1개](/part3/3-3-option-channel)
-- [3-4 자동 routine 등록 🎯](/part3/3-4-automation)
-- [3-5 권한 회수 + 다음 단계](/part3/3-5-handoff)
-
-### 📚 부록
-- [MCP 트러블슈팅 · 권한 회수 · 옵션 채널 레시피](/appendix)
-
+features:
+  - icon: 🎬
+    title: Prologue (5분)
+    details: 0. 오늘의 약속 — 강사 자비스 데모 + 4시간 로드맵 + 약속
+    link: /prologue
+    linkText: 시작
+  - icon: 💡
+    title: Part 1 — 자비스 정체성 (55분)
+    details: 자비스 작명, 도구·우선순위 인터뷰, 페르소나 자동 작성
+    link: /part1/1-1-intro
+    linkText: Part 1로
+  - icon: ✨
+    title: Part 2 — 자비스 깨우기 (90분)
+    details: MCP 본인 계정 연결, /morning-brief 첫 실행 ⭐
+    link: /part2/2-1-persona-complete
+    linkText: Part 2로
+  - icon: ⚙️
+    title: Part 3 — 자비스 일상화 (110분)
+    details: /inbox-triage, 회의록, 옵션 채널, 자동 routine 등록 🎯
+    link: /part3/3-1-write-permission
+    linkText: Part 3로
+  - icon: 📚
+    title: 부록
+    details: MCP 트러블슈팅 · 권한 회수 가이드 · 옵션 채널 레시피
+    link: /appendix
+    linkText: 부록 보기
 ---
 
 ## 워크북 사용법
