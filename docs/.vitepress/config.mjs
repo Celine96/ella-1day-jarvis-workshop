@@ -17,42 +17,42 @@ export default defineConfig({
       {
         text: '시작',
         items: [
-          { text: '🏠 워크북 소개', link: '/' },
-          { text: '🎬 0. 프롤로그 : 자비스, 들어보셨죠?', link: '/prologue' },
+          { text: '워크북 소개', link: '/' },
+          { text: '0. 프롤로그 : 자비스, 들어보셨죠?', link: '/prologue' },
         ]
       },
       {
         text: 'Part 1 — 자비스 정체성 (55분)',
         items: [
-          { text: '💡 1-1 자비스란 무엇인가', link: '/part1/1-1-intro' },
-          { text: '🛠️ 1-2 클로드 코드 + MCP', link: '/part1/1-2-install' },
-          { text: '✏️ 1-3 나만의 자비스 작명 + 인터뷰', link: '/part1/1-3-naming' },
-          { text: '📝 1-4 페르소나 자동 작성', link: '/part1/1-4-persona-draft' },
+          { text: '1-1 자비스란 무엇인가', link: '/part1/1-1-intro' },
+          { text: '1-2 클로드 코드 + MCP', link: '/part1/1-2-install' },
+          { text: '1-3 나만의 자비스 작명 + 인터뷰', link: '/part1/1-3-naming' },
+          { text: '1-4 페르소나 자동 작성', link: '/part1/1-4-persona-draft' },
         ]
       },
       {
         text: 'Part 2 — 자비스 깨우기 (90분)',
         items: [
-          { text: '✨ 2-1 페르소나 완성', link: '/part2/2-1-persona-complete' },
-          { text: '🔌 2-2 MCP 연결 (읽기)', link: '/part2/2-2-mcp-setup' },
-          { text: '☀️ 2-3 /morning-brief 첫 실행 ⭐', link: '/part2/2-3-morning-brief' },
-          { text: '📋 2-4 /meeting-prep + /weekly-review', link: '/part2/2-4-prep-and-review' },
+          { text: '2-1 페르소나 완성', link: '/part2/2-1-persona-complete' },
+          { text: '2-2 MCP 연결 (읽기)', link: '/part2/2-2-mcp-setup' },
+          { text: '2-3 /morning-brief 첫 실행', link: '/part2/2-3-morning-brief' },
+          { text: '2-4 /meeting-prep + /weekly-review', link: '/part2/2-4-prep-and-review' },
         ]
       },
       {
         text: 'Part 3 — 자비스 일상화 (110분)',
         items: [
-          { text: '📥 3-1 쓰기 권한 + /inbox-triage ⭐', link: '/part3/3-1-write-permission' },
-          { text: '📝 3-2 회의록 + /meeting-recap', link: '/part3/3-2-meeting-recap' },
-          { text: '🔗 3-3 옵션 채널 1개', link: '/part3/3-3-option-channel' },
-          { text: '⚙️ 3-4 자동 routine 등록 🎯', link: '/part3/3-4-automation' },
-          { text: '🔒 3-5 권한 회수 + 다음 단계', link: '/part3/3-5-handoff' },
+          { text: '3-1 쓰기 권한 + /inbox-triage', link: '/part3/3-1-write-permission' },
+          { text: '3-2 회의록 + /meeting-recap', link: '/part3/3-2-meeting-recap' },
+          { text: '3-3 옵션 채널 1개', link: '/part3/3-3-option-channel' },
+          { text: '3-4 자동 routine 등록', link: '/part3/3-4-automation' },
+          { text: '3-5 권한 회수 + 다음 단계', link: '/part3/3-5-handoff' },
         ]
       },
       {
         text: '부록',
         items: [
-          { text: '📚 MCP 트러블슈팅 · 권한 회수 · 옵션 채널 레시피', link: '/appendix' },
+          { text: 'MCP 트러블슈팅 · 권한 회수 · 옵션 채널 레시피', link: '/appendix' },
         ]
       }
     ],
