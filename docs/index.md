@@ -16,7 +16,7 @@ hero:
 features:
   - icon: 🎬
     title: Prologue (5분)
-    details: 0. 오늘의 약속 — 강사 자비스 데모 + 4시간 로드맵 + 약속
+    details: 0. 오늘 만드는 자비스 — 완성본 미리보기 + 실습 파일 구성 + 4시간 구성
     link: /prologue
     linkText: 시작
   - icon: 💡

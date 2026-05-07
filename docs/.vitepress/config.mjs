@@ -18,7 +18,7 @@ export default defineConfig({
         text: '시작',
         items: [
           { text: '🏠 워크북 소개', link: '/' },
-          { text: '🎬 0. 오늘의 약속', link: '/prologue' },
+          { text: '🎬 0. 오늘 만드는 자비스', link: '/prologue' },
         ]
       },
       {
