@@ -1,0 +1,269 @@
+{
+  "_meta": {
+    "description": "v4 자비스 워크숍 — 본인 Calendar 연결 전 워밍업용 더미 일정 샘플",
+    "scenario": "한국 B2B SaaS 대표 가정. ARR 30억, Series A 준비 중.",
+    "period": "2026-05-07 (목) ~ 2026-05-13 (수)",
+    "total": 28,
+    "generated_for": "/morning-brief, /weekly-review 동작 검증",
+    "intentional_features": [
+      "5/7 (목): 일정 충돌 1건 (11:00 임원 콜 vs 11:30 점심)",
+      "5/8 (금): Q1 회의 밀집 (3건 연속)",
+      "5/12 (월): 보드 미팅 (Q1 최우선)",
+      "주말은 거의 비어 있음 (자비스가 'Q4 무시 가능'으로 처리할 빈 시간)"
+    ]
+  },
+  "events": [
+    {
+      "id": "evt001",
+      "summary": "투자자 미팅 — 박파트너 (VC Firm)",
+      "start": "2026-05-07T09:00:00+09:00",
+      "end": "2026-05-07T10:00:00+09:00",
+      "attendees": ["요한님", "박파트너@vc-firm.com"],
+      "location": "강남 VC Firm 사무실",
+      "description": "IR 자료 후속 논의. ARR 성장률 분기별 데이터 공유 필요."
+    },
+    {
+      "id": "evt002",
+      "summary": "임원 주간 콜",
+      "start": "2026-05-07T11:00:00+09:00",
+      "end": "2026-05-07T12:00:00+09:00",
+      "attendees": ["요한님", "VP Eng", "Head of Product", "CFO", "CMO"],
+      "location": "Zoom",
+      "description": "주간 임원 정기 콜. OKR 진행률·블로커 공유."
+    },
+    {
+      "id": "evt003",
+      "summary": "점심 — 사외이사 김이사",
+      "start": "2026-05-07T11:30:00+09:00",
+      "end": "2026-05-07T13:00:00+09:00",
+      "attendees": ["요한님", "김이사"],
+      "location": "강남 한식당",
+      "description": "이번 분기 보드 미팅 안건 사전 논의."
+    },
+    {
+      "id": "evt004",
+      "summary": "팀 위클리",
+      "start": "2026-05-07T14:00:00+09:00",
+      "end": "2026-05-07T15:00:00+09:00",
+      "attendees": ["요한님", "전체팀"],
+      "location": "회사 회의실 A",
+      "description": "지난주 결정사항 3건 공유 및 이번 주 우선순위."
+    },
+    {
+      "id": "evt005",
+      "summary": "1:1 — VP Engineering",
+      "start": "2026-05-07T16:00:00+09:00",
+      "end": "2026-05-07T16:30:00+09:00",
+      "attendees": ["요한님", "VP Eng"],
+      "location": "회사 회의실 B",
+      "description": "Q2 채용 계획 사인오프."
+    },
+    {
+      "id": "evt006",
+      "summary": "후보자 A 최종 면접 (CTO 후보)",
+      "start": "2026-05-08T09:00:00+09:00",
+      "end": "2026-05-08T10:30:00+09:00",
+      "attendees": ["요한님", "후보자 A", "VP Eng"],
+      "location": "회사 회의실 A",
+      "description": "최종 인터뷰. 오퍼 회신 마감 임박."
+    },
+    {
+      "id": "evt007",
+      "summary": "고객 미팅 — Big Corp 이대표",
+      "start": "2026-05-08T11:00:00+09:00",
+      "end": "2026-05-08T12:00:00+09:00",
+      "attendees": ["요한님", "이대표@bigcorp.kr", "CS Lead"],
+      "location": "Big Corp 본사",
+      "description": "PoC 결과 검토 + 본 계약 가격 협상."
+    },
+    {
+      "id": "evt008",
+      "summary": "법무 미팅 — Series A 계약서 검토",
+      "start": "2026-05-08T14:00:00+09:00",
+      "end": "2026-05-08T15:30:00+09:00",
+      "attendees": ["요한님", "최변호사", "CFO"],
+      "location": "Zoom",
+      "description": "Liquidation Preference·Anti-Dilution·Drag-Along 조항 협상."
+    },
+    {
+      "id": "evt009",
+      "summary": "1:1 — Head of Product",
+      "start": "2026-05-08T16:00:00+09:00",
+      "end": "2026-05-08T16:30:00+09:00",
+      "attendees": ["요한님", "Head of Product"],
+      "location": "회사 회의실 B",
+      "description": "엔터프라이즈 기능 로드맵 v2 검토."
+    },
+    {
+      "id": "evt010",
+      "summary": "주간 정리 (혼자)",
+      "start": "2026-05-08T17:00:00+09:00",
+      "end": "2026-05-08T18:00:00+09:00",
+      "attendees": ["요한님"],
+      "location": "사무실",
+      "description": "한 주 회고 + 다음 주 우선순위 정리."
+    },
+    {
+      "id": "evt011",
+      "summary": "주말 — 가족 시간",
+      "start": "2026-05-09T00:00:00+09:00",
+      "end": "2026-05-09T23:59:00+09:00",
+      "attendees": ["요한님"],
+      "location": "-",
+      "description": "(종일) 외부 일정 없음."
+    },
+    {
+      "id": "evt012",
+      "summary": "주말 — 가족 시간",
+      "start": "2026-05-10T00:00:00+09:00",
+      "end": "2026-05-10T23:59:00+09:00",
+      "attendees": ["요한님"],
+      "location": "-",
+      "description": "(종일) 외부 일정 없음."
+    },
+    {
+      "id": "evt013",
+      "summary": "보드 미팅 (Quarterly)",
+      "start": "2026-05-11T09:00:00+09:00",
+      "end": "2026-05-11T12:00:00+09:00",
+      "attendees": ["요한님", "김이사", "박파트너", "다른 보드 멤버 2명"],
+      "location": "회사 보드룸",
+      "description": "분기 OKR 검토 + 글로벌 진출 로드맵 + Series A 진행 상황."
+    },
+    {
+      "id": "evt014",
+      "summary": "점심 — 보드 멤버",
+      "start": "2026-05-11T12:00:00+09:00",
+      "end": "2026-05-11T13:30:00+09:00",
+      "attendees": ["요한님", "보드 전체"],
+      "location": "강남 한식당",
+      "description": "보드 미팅 후 점심."
+    },
+    {
+      "id": "evt015",
+      "summary": "1:1 — CFO",
+      "start": "2026-05-11T15:00:00+09:00",
+      "end": "2026-05-11T15:45:00+09:00",
+      "attendees": ["요한님", "CFO"],
+      "location": "회사 회의실 B",
+      "description": "5월 burn rate · runway 보고 검토."
+    },
+    {
+      "id": "evt016",
+      "summary": "고객 인터뷰 1/5",
+      "start": "2026-05-11T16:30:00+09:00",
+      "end": "2026-05-11T17:30:00+09:00",
+      "attendees": ["요한님", "고객 A", "CS Lead"],
+      "location": "Zoom",
+      "description": "엔터프라이즈 기능 피드백 인터뷰."
+    },
+    {
+      "id": "evt017",
+      "summary": "1:1 — CMO",
+      "start": "2026-05-12T10:00:00+09:00",
+      "end": "2026-05-12T10:45:00+09:00",
+      "attendees": ["요한님", "CMO"],
+      "location": "회사 회의실 B",
+      "description": "Q2 마케팅 예산 검토."
+    },
+    {
+      "id": "evt018",
+      "summary": "고객 인터뷰 2/5",
+      "start": "2026-05-12T11:00:00+09:00",
+      "end": "2026-05-12T12:00:00+09:00",
+      "attendees": ["요한님", "고객 B", "CS Lead"],
+      "location": "Zoom",
+      "description": "엔터프라이즈 기능 피드백."
+    },
+    {
+      "id": "evt019",
+      "summary": "외부 컨설턴트 미팅 — 글로벌 진출",
+      "start": "2026-05-12T14:00:00+09:00",
+      "end": "2026-05-12T15:30:00+09:00",
+      "attendees": ["요한님", "외부 컨설턴트"],
+      "location": "Zoom",
+      "description": "일본·싱가포르 시장조사 보고서 논의."
+    },
+    {
+      "id": "evt020",
+      "summary": "팀 위클리",
+      "start": "2026-05-12T16:00:00+09:00",
+      "end": "2026-05-12T17:00:00+09:00",
+      "attendees": ["요한님", "전체팀"],
+      "location": "회사 회의실 A",
+      "description": "주간 정기 회의."
+    },
+    {
+      "id": "evt021",
+      "summary": "기자 인터뷰 — Series A",
+      "start": "2026-05-13T10:00:00+09:00",
+      "end": "2026-05-13T11:00:00+09:00",
+      "attendees": ["요한님", "트레이드 매거진 기자"],
+      "location": "회사 회의실 A",
+      "description": "Series A 라운드 관련 인터뷰."
+    },
+    {
+      "id": "evt022",
+      "summary": "신규 입사자 환영 미팅",
+      "start": "2026-05-13T11:30:00+09:00",
+      "end": "2026-05-13T12:30:00+09:00",
+      "attendees": ["요한님", "신규 입사자 3명", "HR"],
+      "location": "회사 회의실 A",
+      "description": "5월 입사자 환영."
+    },
+    {
+      "id": "evt023",
+      "summary": "고객 인터뷰 3/5",
+      "start": "2026-05-13T14:00:00+09:00",
+      "end": "2026-05-13T15:00:00+09:00",
+      "attendees": ["요한님", "고객 C", "CS Lead"],
+      "location": "Zoom",
+      "description": "엔터프라이즈 피드백."
+    },
+    {
+      "id": "evt024",
+      "summary": "1:1 — Head of Product",
+      "start": "2026-05-13T15:30:00+09:00",
+      "end": "2026-05-13T16:00:00+09:00",
+      "attendees": ["요한님", "Head of Product"],
+      "location": "회사 회의실 B",
+      "description": "로드맵 v2 후속."
+    },
+    {
+      "id": "evt025",
+      "summary": "스타트업 네트워킹 디너",
+      "start": "2026-05-13T19:00:00+09:00",
+      "end": "2026-05-13T22:00:00+09:00",
+      "attendees": ["요한님", "다른 스타트업 대표 30명"],
+      "location": "강남",
+      "description": "5월 스타트업 대표 네트워킹 디너."
+    },
+    {
+      "id": "evt026",
+      "summary": "사외이사 디너 (월 정기)",
+      "start": "2026-05-14T19:00:00+09:00",
+      "end": "2026-05-14T21:00:00+09:00",
+      "attendees": ["요한님", "김이사"],
+      "location": "강남",
+      "description": "월 정기 사외이사 디너 — 일정 픽스 필요."
+    },
+    {
+      "id": "evt027",
+      "summary": "동문 모임 (선택)",
+      "start": "2026-05-30T18:00:00+09:00",
+      "end": "2026-05-30T21:00:00+09:00",
+      "attendees": ["요한님", "동문 다수"],
+      "location": "여의도",
+      "description": "5월 동문 모임. 참석 여부 미정."
+    },
+    {
+      "id": "evt028",
+      "summary": "월간 OKR 리뷰 (예정)",
+      "start": "2026-05-31T14:00:00+09:00",
+      "end": "2026-05-31T16:00:00+09:00",
+      "attendees": ["요한님", "임원 전체"],
+      "location": "회사 보드룸",
+      "description": "5월 OKR 결산."
+    }
+  ]
+}

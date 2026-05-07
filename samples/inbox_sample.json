@@ -1,0 +1,316 @@
+{
+  "_meta": {
+    "description": "v4 자비스 워크숍 — 본인 Gmail 연결 전 워밍업용 더미 inbox 샘플",
+    "scenario": "한국 B2B SaaS 대표 가정. ARR 30억, Series A 준비 중.",
+    "total": 30,
+    "generated_for": "/morning-brief, /inbox-triage 동작 검증",
+    "expected_distribution": {
+      "Q1": "5건 (투자자/핵심 고객/채용 마감)",
+      "Q2": "8건 (전략 검토/회의 후속/팀 보고)",
+      "Q3": "6건 (위임 가능 운영)",
+      "Q4": "11건 (뉴스레터/자동 알림/콜드 영업)"
+    }
+  },
+  "messages": [
+    {
+      "id": "m001",
+      "from": "park.partner@vc-firm.com",
+      "from_name": "박파트너 (VC Firm)",
+      "subject": "[긴급] IR 자료 후속 답변 요청",
+      "snippet": "어제 미팅 후속으로 ARR 성장률 분기별 데이터와 churn rate 정의를 다시 정리해주실 수 있을까요? 내일 IC 미팅이 있어서요.",
+      "received_at": "2026-05-07T07:32:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX", "IMPORTANT"]
+    },
+    {
+      "id": "m002",
+      "from": "ceo@bigcorp.kr",
+      "from_name": "이대표 (Big Corp)",
+      "subject": "PoC 결과 검토 — 본 계약 검토",
+      "snippet": "지난 3개월 PoC 결과 잘 봤습니다. 본 계약으로 전환하고자 하는데, 가격 협상 일정 잡아주실 수 있을까요?",
+      "received_at": "2026-05-07T06:15:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX"]
+    },
+    {
+      "id": "m003",
+      "from": "candidate.a@email.com",
+      "from_name": "후보자 A (CTO 후보)",
+      "subject": "오퍼 회신",
+      "snippet": "제안 주신 오퍼 검토 마쳤습니다. 한 가지 협상 포인트가 있어 회신드립니다. 이번 주 안에 결정 부탁드립니다.",
+      "received_at": "2026-05-07T05:48:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX"]
+    },
+    {
+      "id": "m004",
+      "from": "board@advisor.com",
+      "from_name": "김이사 (사외이사)",
+      "subject": "이번 분기 보드 미팅 안건 추가 제안",
+      "snippet": "다음 보드 미팅에 OKR 검토 외에 글로벌 진출 로드맵도 다뤘으면 합니다. 자료 준비 가능하실까요?",
+      "received_at": "2026-05-06T22:10:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX"]
+    },
+    {
+      "id": "m005",
+      "from": "legal@law-firm.com",
+      "from_name": "최변호사",
+      "subject": "Series A 계약서 1차 검토 의견",
+      "snippet": "텀시트 검토 의견 정리했습니다. 핵심 이슈 3가지 — Liquidation Preference, Anti-Dilution, Drag-Along 조항.",
+      "received_at": "2026-05-06T18:30:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX", "IMPORTANT"]
+    },
+    {
+      "id": "m006",
+      "from": "vp.eng@company.com",
+      "from_name": "VP Engineering",
+      "subject": "Q2 채용 계획 검토 요청",
+      "snippet": "Q2 백엔드 3명·프론트 2명 채용 계획 정리했습니다. 검토 후 사인오프 부탁드립니다.",
+      "received_at": "2026-05-06T16:45:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX"]
+    },
+    {
+      "id": "m007",
+      "from": "head.product@company.com",
+      "from_name": "Head of Product",
+      "subject": "엔터프라이즈 기능 로드맵 v2 — 검토 요청",
+      "snippet": "지난주 미팅 피드백 반영해서 v2 로드맵 만들었습니다. 다음 주 보드 미팅 전에 검토 부탁드립니다.",
+      "received_at": "2026-05-06T15:20:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX"]
+    },
+    {
+      "id": "m008",
+      "from": "cmo@company.com",
+      "from_name": "CMO",
+      "subject": "Q2 마케팅 예산 1차 안",
+      "snippet": "디지털 광고 비중 조정안 첨부드립니다. 의견 주시면 다음 주까지 마무리하겠습니다.",
+      "received_at": "2026-05-06T14:00:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX"]
+    },
+    {
+      "id": "m009",
+      "from": "customer.success@company.com",
+      "from_name": "CS Lead",
+      "subject": "고객 인터뷰 5월 일정 — 대표님 참석 요청",
+      "snippet": "5월에 진행할 핵심 고객 5명 인터뷰 일정 정리했습니다. 가능하신 시간 알려주세요.",
+      "received_at": "2026-05-06T11:30:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX"]
+    },
+    {
+      "id": "m010",
+      "from": "cfo@company.com",
+      "from_name": "CFO",
+      "subject": "5월 자금 운영 보고",
+      "snippet": "5월 burn rate · runway 보고 첨부드립니다. 다음 주 OKR 미팅에 활용 부탁드립니다.",
+      "received_at": "2026-05-06T10:45:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX"]
+    },
+    {
+      "id": "m011",
+      "from": "team.weekly@company.com",
+      "from_name": "팀 주간 정리 봇",
+      "subject": "팀 주간 OKR 진행률 — 5월 1주차",
+      "snippet": "이번 주 팀별 OKR 진행률 자동 집계입니다. 핵심: Eng 78%, Product 82%, GTM 65%.",
+      "received_at": "2026-05-06T09:00:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX"]
+    },
+    {
+      "id": "m012",
+      "from": "office.manager@company.com",
+      "from_name": "Office Manager",
+      "subject": "사무실 임대 갱신 — 검토 필요",
+      "snippet": "사무실 임대 9월 만료입니다. 연장 vs 이전 검토 필요. 옵션 3가지 정리했습니다.",
+      "received_at": "2026-05-06T08:00:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX"]
+    },
+    {
+      "id": "m013",
+      "from": "vendor@saas-tool.com",
+      "from_name": "SaaS Vendor Sales",
+      "subject": "엔터프라이즈 플랜 업그레이드 제안",
+      "snippet": "현재 플랜 한도 80% 도달했습니다. 엔터프라이즈 플랜 업그레이드 30% 할인 진행 중입니다.",
+      "received_at": "2026-05-06T07:15:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX"]
+    },
+    {
+      "id": "m014",
+      "from": "intern@company.com",
+      "from_name": "마케팅 인턴",
+      "subject": "블로그 게시글 — 검토 요청",
+      "snippet": "다음 주 발행 예정 블로그 글 1차 작성 완료. 짧은 검토 부탁드립니다.",
+      "received_at": "2026-05-05T17:30:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX"]
+    },
+    {
+      "id": "m015",
+      "from": "external.consultant@firm.com",
+      "from_name": "외부 컨설턴트",
+      "subject": "글로벌 진출 시장조사 1차 보고서",
+      "snippet": "일본·싱가포르 시장조사 1차 보고서입니다. 다음 단계 논의 일정 잡아주세요.",
+      "received_at": "2026-05-05T16:00:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX"]
+    },
+    {
+      "id": "m016",
+      "from": "hr@company.com",
+      "from_name": "HR",
+      "subject": "신규 입사자 환영 — 일정 조율",
+      "snippet": "다음 주 입사하는 분들 환영 미팅 일정 조율 부탁드립니다.",
+      "received_at": "2026-05-05T14:20:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX"]
+    },
+    {
+      "id": "m017",
+      "from": "newsletter@techcrunch.com",
+      "from_name": "TechCrunch Daily",
+      "subject": "Today's Top Stories — AI Funding Hits Record",
+      "snippet": "Top stories from the world of tech: ...",
+      "received_at": "2026-05-07T06:00:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX", "Promotions"]
+    },
+    {
+      "id": "m018",
+      "from": "noreply@linear.app",
+      "from_name": "Linear",
+      "subject": "[ENG-2341] Issue assigned to you",
+      "snippet": "Auto notification: Issue ENG-2341 was assigned to you by VP Eng.",
+      "received_at": "2026-05-07T05:00:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX", "Updates"]
+    },
+    {
+      "id": "m019",
+      "from": "no-reply@github.com",
+      "from_name": "GitHub",
+      "subject": "[Repo] PR #123 needs your review",
+      "snippet": "Pull request #123 in your-repo is awaiting your review.",
+      "received_at": "2026-05-06T23:00:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX", "Updates"]
+    },
+    {
+      "id": "m020",
+      "from": "newsletter@stratechery.com",
+      "from_name": "Stratechery by Ben Thompson",
+      "subject": "Daily Update — Apple's AI Strategy",
+      "snippet": "Today's analysis: Apple's approach to integrating AI...",
+      "received_at": "2026-05-06T20:00:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX", "Promotions"]
+    },
+    {
+      "id": "m021",
+      "from": "sales@coldoutreach.com",
+      "from_name": "Cold Outreach Sales",
+      "subject": "Quick question for 요한님",
+      "snippet": "I noticed your company is growing fast. Would love to introduce our solution that could 10x your...",
+      "received_at": "2026-05-06T19:00:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX", "Promotions"]
+    },
+    {
+      "id": "m022",
+      "from": "billing@aws.amazon.com",
+      "from_name": "AWS Billing",
+      "subject": "Your AWS bill for April 2026",
+      "snippet": "Your AWS bill is now available. Total: $XX,XXX.",
+      "received_at": "2026-05-06T18:00:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX", "Updates"]
+    },
+    {
+      "id": "m023",
+      "from": "noreply@calendly.com",
+      "from_name": "Calendly",
+      "subject": "Meeting confirmed — Tomorrow 10:00",
+      "snippet": "Your meeting with Jane Doe is confirmed for tomorrow at 10:00.",
+      "received_at": "2026-05-06T17:00:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX", "Updates"]
+    },
+    {
+      "id": "m024",
+      "from": "marketing@conference.com",
+      "from_name": "TechConf 2026",
+      "subject": "Last chance — Speaker discount expires today",
+      "snippet": "Don't miss out on our speaker discount for TechConf 2026...",
+      "received_at": "2026-05-06T16:30:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX", "Promotions"]
+    },
+    {
+      "id": "m025",
+      "from": "noreply@notion.so",
+      "from_name": "Notion",
+      "subject": "Weekly digest — 12 updates in your workspace",
+      "snippet": "Here's what happened in your Notion workspace this week...",
+      "received_at": "2026-05-06T12:00:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX", "Updates"]
+    },
+    {
+      "id": "m026",
+      "from": "events@startup-event.com",
+      "from_name": "Startup Event",
+      "subject": "초대 — 5월 스타트업 네트워킹 디너",
+      "snippet": "5월 25일 저녁, 강남에서 진행되는 스타트업 대표 네트워킹 디너에 초대드립니다.",
+      "received_at": "2026-05-06T11:00:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX"]
+    },
+    {
+      "id": "m027",
+      "from": "support@slack.com",
+      "from_name": "Slack Support",
+      "subject": "Your monthly Slack usage report",
+      "snippet": "Here's how your team used Slack in April...",
+      "received_at": "2026-05-06T10:00:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX", "Updates"]
+    },
+    {
+      "id": "m028",
+      "from": "press@trade-magazine.com",
+      "from_name": "트레이드 매거진 기자",
+      "subject": "인터뷰 요청 — Series A 라운드 관련",
+      "snippet": "최근 Series A 라운드 관련 인터뷰 요청드립니다. 이번 주~다음 주 가능한 시간 알려주세요.",
+      "received_at": "2026-05-06T09:00:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX"]
+    },
+    {
+      "id": "m029",
+      "from": "deals@crm-tool.com",
+      "from_name": "CRM Tool Marketing",
+      "subject": "50% off — May only",
+      "snippet": "Limited time offer for our CRM platform. Save 50% on annual plans...",
+      "received_at": "2026-05-05T22:00:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX", "Promotions"]
+    },
+    {
+      "id": "m030",
+      "from": "alumni@university.ac.kr",
+      "from_name": "동문회",
+      "subject": "5월 동문 모임 안내",
+      "snippet": "5월 30일 동문 모임 안내드립니다. 참석 여부 회신 부탁드립니다.",
+      "received_at": "2026-05-05T20:00:00+09:00",
+      "is_unread": true,
+      "labels": ["INBOX"]
+    }
+  ]
+}
