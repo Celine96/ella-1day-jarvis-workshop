@@ -13,11 +13,11 @@ description: 매주 일요일 20:00 — 다음 주 아이젠하워 정리를 Gma
 
 ## 실행 흐름
 
-1. 페르소나 `.claude/agents/{{JARVIS_NAME}}.md` 로드
+1. 페르소나 `.claude/agents/자비스.md` 로드
 2. `/weekly-review` 운영 커맨드 실행 (출력 캡처)
 3. Gmail 자기발송:
    - 수신자: 요한님 본인 메일 주소
-   - 제목: `[{{JARVIS_NAME}}] 다음 주 — 아이젠하워 매트릭스 정리`
+   - 제목: `[자비스] 다음 주 — 아이젠하워 매트릭스 정리`
    - 본문: `/weekly-review` 출력 결과
 
 ## 안전장치

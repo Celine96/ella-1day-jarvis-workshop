@@ -131,7 +131,7 @@ LinkedIn은 공식 MCP가 없어 **수동 + 초안** 패턴입니다.
 - [ ] Gmail 권한 범위 = 읽기 + 보내기 (불필요한 "수정"·"삭제" 권한 없음)
 - [ ] routine이 외부 수신자에게 자동 발송하지 않음 (자기발송만)
 - [ ] 임시보관함 메일 자동 발송 안 됨 (수동 클릭만 발송)
-- [ ] `.claude/agents/{{JARVIS_NAME}}.md`가 GitHub 공개 레포에 올라가지 않음
+- [ ] `.claude/agents/자비스.md`가 GitHub 공개 레포에 올라가지 않음
 - [ ] OAuth 토큰·API 키가 `.env` 또는 GitHub Secrets에만 저장되어 있고 코드에 평문 노출 안 됨
 - [ ] 자비스가 보낸 routine 메일이 본인 메일로만 도착 (외부 수신자 없음)
 :::

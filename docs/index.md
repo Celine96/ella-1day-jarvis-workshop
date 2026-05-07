@@ -2,15 +2,15 @@
 layout: home
 
 hero:
-  name: "{{JARVIS_NAME}}"
-  text: "요한님의 자비스"
-  tagline: "아이젠하워 매트릭스로 정리된 오늘이 매일 아침 8시 메일함에"
+  name: "ELLA'S 1DAY WORKSHOP"
+  text: "나만의 JARVIS"
+  tagline: "오늘 워크숍이 끝나면, 여러분만의 일정관리 자비스가 완성돼있을 거예요!"
   actions:
     - theme: brand
-      text: 0. 오늘의 약속
+      text: 시작하기
       link: /prologue
     - theme: alt
-      text: Part 1 시작
+      text: Part 1로 바로
       link: /part1/1-1-intro
 
 features:
@@ -24,21 +24,21 @@ features:
 
 # 워크북 소개
 
-이 워크북은 **요한님 전용 시간관리 비서, {{JARVIS_NAME}}**을(를) 만드는 4시간 워크숍의 동반 가이드입니다.
+이 워크북은 **요한님 전용 시간관리 비서, 자비스**를 만드는 4시간 워크숍의 동반 가이드입니다.
 
 ## 워크숍이 끝날 때 손에 남는 것
 
-- ✅ {{JARVIS_NAME}}의 페르소나 (`.claude/agents/{{JARVIS_NAME}}.md`)
-- ✅ 운영 슬래시 커맨드 5종
+- ✅ **나만의 자비스 페르소나** (이름·톤·우선순위 규칙·시간 블록 정책)
+- ✅ **운영 슬래시 커맨드 5종**
   - `/morning-brief` · `/meeting-prep` · `/meeting-recap` · `/inbox-triage` · `/weekly-review`
-- ✅ 자동 routine 2종 (매일 08:00 + 일요일 20:00 자기발송)
+- ✅ **자동 routine 2종** (매일 08:00 + 일요일 20:00 자기발송)
 - ✅ Gmail · Calendar 본인 계정 MCP 연결
 - ✅ 옵션 채널 1개 연결 (LinkedIn / Slack / Notion 중 선택)
 
 ## 약속
 
-> **"오늘 워크숍 끝나고 집에 가서 주무시고, 내일 아침 8시에 폰에 {{JARVIS_NAME}}이(가) '아이젠하워 매트릭스로 정리한 오늘'을 보내준 것."**
+> **"오늘 워크숍 끝나고 집에 가서 주무시고, 내일 아침 8시에 폰에 자비스가 '아이젠하워 매트릭스로 정리한 오늘'을 보내준 것."**
 
 ## 시작하기 전에
 
-[0. 오늘의 약속](/prologue)부터 보시면 좋습니다. 5분.
+[🎬 0. 오늘의 약속](/prologue)부터 보시면 좋습니다. 5분.
