@@ -26,12 +26,12 @@ features:
     linkText: Part 1로
   - icon: ✨
     title: Part 2 — 자비스 깨우기 (90분)
-    details: MCP 본인 계정 연결, /morning-brief 첫 실행 ⭐
+    details: MCP 본인 계정 연결, 자비스의 첫 결과 받기
     link: /part2/2-1-persona-complete
     linkText: Part 2로
   - icon: ⚙️
     title: Part 3 — 자비스 일상화 (110분)
-    details: /inbox-triage, 회의록, 옵션 채널, 자동 routine 등록 🎯
+    details: /inbox-triage, 회의록, 옵션 채널, 자동 routine 등록
     link: /part3/3-1-write-permission
     linkText: Part 3로
   - icon: 📚
@@ -48,7 +48,7 @@ features:
 ### 구조
 - **[개념]** — 읽고 이해하는 파트
 - **[실습]** — 직접 수행하는 파트 (슬래시 커맨드 호출)
-- **[체크포인트]** — 진행 상황 확인 + 우와 모먼트 ⭐
+- **[체크포인트]** — 진행 상황 확인 + 주요 마일스톤
 
 ### 소요시간
 약 **4시간** (Prologue 5분 + Part 1 55분 + Part 2 90분 + Part 3 110분)
