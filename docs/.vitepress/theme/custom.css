@@ -1,0 +1,22 @@
+/* 홈페이지 features 1+3+1 강제 배치
+ * 1행: Prologue
+ * 2행: Part 1, Part 2, Part 3
+ * 3행: 부록
+ */
+@media (min-width: 960px) {
+  .VPFeatures .container .items {
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+  .VPFeatures .container .items > .item {
+    padding: 0 !important;
+    max-width: none !important;
+    flex: none !important;
+    width: auto !important;
+  }
+  .VPFeatures .container .items > .item:nth-child(1),
+  .VPFeatures .container .items > .item:nth-child(5) {
+    grid-column: 1 / -1;
+  }
+}
