@@ -26,7 +26,7 @@ export default defineConfig({
         items: [
           { text: '1-1 자비스란 무엇인가', link: '/part1/1-1-intro' },
           { text: '1-2 MCP — 자비스가 외부 도구에 연결되는 방법', link: '/part1/1-2-install' },
-          { text: '1-3 나만의 자비스 작명 + 인터뷰', link: '/part1/1-3-naming' },
+          { text: '1-3 자비스 만들기 — 작명과 인터뷰', link: '/part1/1-3-naming' },
           { text: '1-4 페르소나 자동 작성', link: '/part1/1-4-persona-draft' },
         ]
       },
