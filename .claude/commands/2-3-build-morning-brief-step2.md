@@ -24,4 +24,10 @@ description: /morning-brief 첫 실행 후 톤 튜닝 가이드
 
 ## 안내 마무리
 
-"마음에 드시면 같은 패턴으로 `/meeting-prep`과 `/weekly-review`도 추가하시죠. 다음 챕터로 넘어가시면 됩니다."
+"튜닝 완료. 같은 패턴으로 `/meeting-prep`과 `/weekly-review`도 추가하시죠."
+
+## 다음 단계 안내
+
+튜닝 완료 후 다음 안내를 출력합니다:
+
+> "2-4 챕터로 넘어가서 회의 준비·주간 회고 커맨드를 만들어볼게요. `/2-4-build-meeting-prep`을 입력해주세요."

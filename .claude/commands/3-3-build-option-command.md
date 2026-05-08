@@ -48,3 +48,9 @@ description: LinkedIn 메시지 텍스트 입력 → 분류 + 답장 초안
 ```
 연결된 옵션 채널: [Slack / Notion / LinkedIn], 매일 morning-brief에 통합
 ```
+
+## 다음 단계 안내
+
+보조 커맨드 생성 + 페르소나 통합 결정이 끝나면 다음 안내를 출력합니다:
+
+> "옵션 채널 보조 커맨드 생성 완료. 이제 마지막 단계 — 자동 routine 등록으로 자비스를 24/7 작동시킬게요. `/3-4-register-daily-routine`을 입력해주세요."

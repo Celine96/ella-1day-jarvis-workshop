@@ -26,3 +26,9 @@ description: /weekly-review 운영 커맨드 함께 살펴보기 + 첫 실행
 ## 안내 마무리
 
 "이게 다음 일요일 20시에 자동으로 도착할 메일과 같은 형태예요. Part 3에서 routine으로 등록합니다."
+
+## 다음 단계 안내
+
+`/weekly-review` 첫 실행 + 튜닝이 끝나면 다음 안내를 출력합니다:
+
+> "Part 2 완료. 운영 커맨드 3종(/morning-brief · /meeting-prep · /weekly-review)이 모두 작동해요. 5분 휴식 후 Part 3으로 넘어가서 자비스에게 쓰기 권한을 추가합니다. `/3-1-add-write-permission`을 입력해주세요."

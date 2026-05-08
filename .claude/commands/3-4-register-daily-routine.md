@@ -39,3 +39,9 @@ description: daily-morning-brief routine 클라우드 등록
 | 평일 07:30 | `30 7 * * 1-5` |
 | 평일 09:00 | `0 9 * * 1-5` |
 | 매일 08:00 | `0 8 * * *` |
+
+## 다음 단계 안내
+
+daily-morning-brief 등록이 끝나면 다음 안내를 출력합니다:
+
+> "매일 routine 등록 완료. 이제 주간 routine도 등록할게요. `/3-4-register-weekly-routine`을 입력해주세요."
