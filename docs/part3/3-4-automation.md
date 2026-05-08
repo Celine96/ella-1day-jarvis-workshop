@@ -38,6 +38,7 @@ schedule: "0 20 * * 0"   # 일요일 20:00
 자비스에게 대화로 요청하셔도 됩니다: "평일 8시 30분으로 바꿔주세요" → `.claude/routines/daily-morning-brief.md`의 schedule이 자동 업데이트.
 
 ## 3. routine 등록 (10분)
+클로드 코드 터미널에서 다음 슬래시 커맨드를 입력하세요.
 
 ```
 /3-4-register-daily-routine
@@ -55,6 +56,7 @@ schedule: "0 20 * * 0"   # 일요일 20:00
 ```
 
 같은 패턴으로 weekly:
+클로드 코드 터미널에서 다음 슬래시 커맨드를 입력하세요.
 
 ```
 /3-4-register-weekly-routine
@@ -70,6 +72,7 @@ schedule: "0 20 * * 0"   # 일요일 20:00
 
 ::: tip 0번 약속의 실현
 워크숍 4시간의 결산 순간입니다.
+클로드 코드 터미널에서 다음 슬래시 커맨드를 입력하세요.
 
 ```
 /3-4-test-routine-now
