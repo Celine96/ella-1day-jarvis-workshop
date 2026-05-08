@@ -54,6 +54,16 @@
 | (옵션) **Tiro · Granola · Otter** | 회의록 가져오기 (3-2에서 한 가지 연결) |
 | (옵션) **Notion · Slack · LinkedIn** | 학습자가 평소 쓰는 채널 1개 (3-3에서 연결) |
 
+5가지 핵심 기능이 어느 MCP를 쓰는지:
+
+| 자비스 기능 | 사용 MCP |
+|---|---|
+| ① 매일 아침 자동 브리핑 | Gmail + Calendar |
+| ② 받은편지함 자동 정리 | Gmail |
+| ③ 다음 회의 자동 준비 | Calendar + Gmail |
+| ④ 회의록 → 액션아이템 | Tiro · Granola · Otter (옵션) + Gmail |
+| ⑤ 주간 회고·다음 주 우선순위 | Calendar + Gmail |
+
 본인 계정 인증은 **Session 2 시작 직후**에 진행합니다. 지금은 개념만 잡고 가면 됩니다.
 
 ### MCP가 자비스에 가져다주는 3가지
