@@ -1,5 +1,5 @@
 ---
-description: /inbox-triage 운영 커맨드 함께 살펴보기 + 첫 실행 (큰 우와 #2)
+description: /inbox-triage 운영 커맨드 함께 살펴보기 + 첫 실행
 ---
 
 `.claude/commands/inbox-triage.md`를 학습자와 함께 검토하고 첫 실행으로 안내합니다.

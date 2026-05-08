@@ -1,5 +1,5 @@
 ---
-description: 자비스가 학습자 이름 부르며 첫 인사 (미니 우와 #1)
+description: 자비스가 학습자 이름 부르며 첫 인사
 ---
 
 페르소나 `.claude/agents/{{JARVIS_NAME}}.md`를 로드해 자비스의 첫 인사를 출력합니다.

@@ -1,5 +1,5 @@
 ---
-description: /morning-brief 첫 실행 후 톤 튜닝 가이드 (큰 우와 #1)
+description: /morning-brief 첫 실행 후 톤 튜닝 가이드
 ---
 
 학습자가 `/morning-brief`를 처음 실행한 직후에 호출됩니다. 결과를 함께 검토하고 튜닝 포인트를 안내합니다.
