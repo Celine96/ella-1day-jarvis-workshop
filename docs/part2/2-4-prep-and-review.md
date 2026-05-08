@@ -101,7 +101,7 @@
 ---
 
 ::: tip ✅ Part 2 완료
-- 페르소나 완성 ✓
+- 페르소나 점검·보강 완료
 - Gmail/Calendar MCP 읽기 권한 연결 ✓
 - 운영 커맨드 3종 (/morning-brief, /meeting-prep, /weekly-review) 작동 ✓
 

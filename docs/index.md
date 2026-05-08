@@ -21,7 +21,7 @@ features:
     linkText: 시작
   - icon: 💡
     title: Part 1 — 자비스 정체성 (55분)
-    details: 자비스 작명, 도구·우선순위 인터뷰, 페르소나 자동 작성
+    details: 자비스 작명, 도구·우선순위 인터뷰, 페르소나 초안 자동 작성
     link: /part1/1-1-intro
     linkText: Part 1로
   - icon: ✨
