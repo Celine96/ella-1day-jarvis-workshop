@@ -36,7 +36,7 @@ export default defineConfig({
           { text: '2-1 페르소나 점검·보강', link: '/part2/2-1-persona-complete' },
           { text: '2-2 MCP 연결 — Gmail · Calendar 읽기 권한', link: '/part2/2-2-mcp-setup' },
           { text: '2-3 자비스의 첫 결과 — /morning-brief', link: '/part2/2-3-morning-brief' },
-          { text: '2-4 /meeting-prep + /weekly-review', link: '/part2/2-4-prep-and-review' },
+          { text: '2-4 회의 준비 + 주간 회고 — /meeting-prep · /weekly-review', link: '/part2/2-4-prep-and-review' },
         ]
       },
       {
