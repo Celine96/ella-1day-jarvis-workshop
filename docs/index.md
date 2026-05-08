@@ -15,7 +15,7 @@ hero:
 
 features:
   - icon: 🎬
-    title: Prologue (5분)
+    title: Prologue
     details: 0. 프롤로그 — 자비스, 들어보셨죠? 워크숍이 무엇을 만들지 5분 미리보기
     link: /prologue
     linkText: 시작
