@@ -20,17 +20,17 @@ features:
     link: /prologue
     linkText: 시작
   - icon: 💡
-    title: Part 1 — 자비스 정체성 (55분)
+    title: Part 1 — 자비스 정체성
     details: 자비스 작명, 도구·우선순위 인터뷰, 페르소나 초안 자동 작성
     link: /part1/1-1-intro
     linkText: Part 1로
   - icon: ✨
-    title: Part 2 — 자비스 깨우기 (90분)
+    title: Part 2 — 자비스 깨우기
     details: MCP 본인 계정 연결, 자비스의 첫 결과 받기
     link: /part2/2-1-persona-complete
     linkText: Part 2로
   - icon: ⚙️
-    title: Part 3 — 자비스 일상화 (110분)
+    title: Part 3 — 자비스 24/7 작동
     details: /inbox-triage, 회의록, 옵션 채널, 자동 routine 등록
     link: /part3/3-1-write-permission
     linkText: Part 3로

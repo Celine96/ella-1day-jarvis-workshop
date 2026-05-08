@@ -126,4 +126,4 @@ Part 1에서 자비스의 정체성과 페르소나 골격이 잡혔어요. Part
 
 ## 다음
 
-페르소나가 완성됐으니, 이제 자비스에게 본인 계정을 연결할 차례 — [MCP 연결 — Gmail · Calendar 읽기 권한](/part2/2-2-mcp-setup).
+페르소나가 완성됐으니, 이제 자비스에게 본인 계정을 연결할 차례 — [MCP 연결 : Gmail · Calendar 읽기 권한](/part2/2-2-mcp-setup).
