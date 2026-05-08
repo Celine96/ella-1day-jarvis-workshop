@@ -24,7 +24,7 @@ description: /morning-brief 첫 실행 후 톤 튜닝 가이드
 
 ## 안내 마무리
 
-"튜닝 완료. 이제 회의 1건 단위(`/meeting-prep`)와 한 주 단위(`/weekly-review`)로 자비스의 시야를 더 넓혀볼게요."
+"튜닝 완료. 이제 회의 1건 단위(`/meeting-prep`)와 한 주 단위(`/weekly-review`)도 자비스가 다루도록 추가할게요."
 
 ## 다음 단계 안내
 

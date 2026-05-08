@@ -30,4 +30,4 @@ description: /meeting-prep 운영 커맨드 함께 살펴보기 + 첫 실행
 
 `/meeting-prep` 첫 실행 + 튜닝이 끝나면 다음 안내를 출력합니다:
 
-> "회의 준비 커맨드 작동 확인. 이제 한 주 단위(`/weekly-review`)로도 시야를 넓혀볼게요. `/2-4-build-weekly-review`를 입력해주세요."
+> "회의 준비 커맨드 작동 확인. 이제 한 주 단위(`/weekly-review`)도 추가해볼게요. `/2-4-build-weekly-review`를 입력해주세요."

@@ -137,4 +137,4 @@ Part 1에서는 자비스의 정체성과 페르소나를 잡았고, 2-1·2-2에
 
 ## 다음
 
-자비스가 첫 일을 했어요. 이제 회의 1건 단위·한 주 단위로 자비스의 시야를 더 넓힐 차례 — [/meeting-prep + /weekly-review](/part2/2-4-prep-and-review).
+자비스가 첫 일을 했어요. 이제 회의 1건 단위·한 주 단위까지 자비스에 맡길 차례 — [/meeting-prep + /weekly-review](/part2/2-4-prep-and-review).
