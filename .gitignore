@@ -5,3 +5,5 @@ output/
 zip_temp/
 *.zip
 .DS_Store
+.claude/settings.local.json
+package-lock.json
