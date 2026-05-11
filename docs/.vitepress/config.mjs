@@ -40,11 +40,11 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Part 3 — 자비스 24/7 작동',
+        text: 'Part 3 — 자비스에 위임',
         items: [
-          { text: '3-1. 메일·회의 자비스에 맡기기', link: '/part3/3-1-write-permission' },
-          { text: '3-2. 매일 자비스가 자동으로', link: '/part3/3-4-automation' },
-          { text: '3-3. 안심하고 맡기기', link: '/part3/3-5-handoff' },
+          { text: '3-1. 메일·회의 자비스에 위임', link: '/part3/3-1-write-permission' },
+          { text: '3-2. 매일 자동 위임', link: '/part3/3-4-automation' },
+          { text: '3-3. 안심하고 위임', link: '/part3/3-5-handoff' },
         ]
       },
       {

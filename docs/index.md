@@ -30,8 +30,8 @@ features:
     link: /part2/2-1-persona-complete
     linkText: Part 2로
   - icon: ⚙️
-    title: Part 3 — 자비스 24/7 작동
-    details: 메일·회의록 Q3 위임 + 자동 routine으로 본인 일 Q3 정리를 자비스에 맡기는 단계
+    title: Part 3 — 자비스에 위임
+    details: 메일·회의 위임 시작 + 매일 자동 위임으로 본인 일 Q3 정리를 자비스에 맡기는 단계
     link: /part3/3-1-write-permission
     linkText: Part 3로
   - icon: 📚
