@@ -25,26 +25,26 @@ export default defineConfig({
         text: 'Part 1 — 자비스 정체성',
         items: [
           { text: '1-1. 자비스란 무엇인가', link: '/part1/1-1-intro' },
-          { text: '1-2. MCP : 자비스가 외부 도구에 연결되는 방법', link: '/part1/1-2-install' },
-          { text: '1-3. 자비스 만들기 : 작명과 인터뷰', link: '/part1/1-3-naming' },
-          { text: '1-4. 페르소나 초안 자동 작성', link: '/part1/1-4-persona-draft' },
+          { text: '1-2. 자비스의 작업실과 안전 약속', link: '/part1/1-2-install' },
+          { text: '1-3. 자비스 작명 + 첫 만남', link: '/part1/1-3-naming' },
+          { text: '1-4. 자비스의 매뉴얼 만들기', link: '/part1/1-4-persona-draft' },
         ]
       },
       {
         text: 'Part 2 — 자비스 깨우기',
         items: [
-          { text: '2-1. 페르소나 점검·보강', link: '/part2/2-1-persona-complete' },
-          { text: '2-2. MCP 연결 : Gmail · Calendar 읽기 권한', link: '/part2/2-2-mcp-setup' },
-          { text: '2-3. 자비스의 첫 결과 : /morning-brief', link: '/part2/2-3-morning-brief' },
-          { text: '2-4. 회의 준비 + 주간 회고 : /meeting-prep · /weekly-review', link: '/part2/2-4-prep-and-review' },
+          { text: '2-1. 자비스의 매뉴얼 마무리', link: '/part2/2-1-persona-complete' },
+          { text: '2-2. 자비스에 내 데이터 열어주기', link: '/part2/2-2-mcp-setup' },
+          { text: '2-3. 자비스의 첫 출근', link: '/part2/2-3-morning-brief' },
+          { text: '2-4. 자비스가 회의·한 주를 정리', link: '/part2/2-4-prep-and-review' },
         ]
       },
       {
         text: 'Part 3 — 자비스 24/7 작동',
         items: [
-          { text: '3-1. 메일·회의록 Q3 위임 — /inbox-triage · /meeting-recap', link: '/part3/3-1-write-permission' },
-          { text: '3-2. 자동 routine — Q3 위임 안정화', link: '/part3/3-4-automation' },
-          { text: '3-3. 권한 회수 + 다음 단계', link: '/part3/3-5-handoff' },
+          { text: '3-1. 메일·회의 자비스에 맡기기', link: '/part3/3-1-write-permission' },
+          { text: '3-2. 매일 자비스가 자동으로', link: '/part3/3-4-automation' },
+          { text: '3-3. 안심하고 맡기기', link: '/part3/3-5-handoff' },
         ]
       },
       {
