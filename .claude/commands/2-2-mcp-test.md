@@ -7,7 +7,7 @@ description: Gmail · Calendar MCP 연결 통합 테스트
 ## 점검 항목
 
 1. **Gmail 읽기**: `mcp__claude_ai_Gmail__search_threads`로 받은편지함 미답 메일 수 조회
-2. **Gmail 쓰기** (S3 이후만): `mcp__claude_ai_Gmail__create_draft`로 테스트 임시보관함 생성·삭제 가능 여부
+2. **Gmail 쓰기** (S3 이후만): `mcp__claude_ai_Gmail__create_draft`로 권한 검증용 임시 draft 생성·즉시 삭제 (자비스 본체 운영은 임시보관함을 쓰지 않음 — routine 자기발송용 권한 확인)
 3. **Calendar 읽기**: `mcp__claude_ai_Google_Calendar__list_events`로 오늘 일정 조회
 
 ## 출력 형식

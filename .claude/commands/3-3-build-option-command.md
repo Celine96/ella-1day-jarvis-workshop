@@ -14,7 +14,7 @@ description: Slack DM·멘션을 아이젠하워 매트릭스로 분류
 ---
 - mcp__slack으로 채널·DM 미답 메시지 조회 (24h)
 - 페르소나 §4 규칙 적용해 4사분면 분류
-- Q1 답장 초안은 임시보관함 저장 또는 직접 답장
+- Q1·Q3 항목에 본인이 처리할 한 줄 태스크 정의 (답장 작성은 안 함)
 - 출력 형식은 /inbox-triage와 동일 (사분면 헤더 + 불릿)
 ```
 
@@ -34,12 +34,13 @@ description: Notion OKR/할 일 페이지를 읽어 morning-brief에 통합
 파일: `.claude/commands/linkedin-triage.md`
 ```markdown
 ---
-description: LinkedIn 메시지 텍스트 입력 → 분류 + 답장 초안
+description: LinkedIn 메시지 텍스트 입력 → 분류 + 본인 처리 태스크 정의
 ---
 - 입력: LinkedIn 메시지 텍스트 (학습자 붙여넣기)
-- 페르소나 톤으로 사분면 분류 + Q1·Q2 답장 초안
-- 초안은 콘솔 출력 (LinkedIn은 발송 자동화 미지원)
-- 학습자가 LinkedIn에 직접 붙여넣기
+- 페르소나 §4 규칙으로 사분면 분류
+- Q1·Q3 항목에 본인이 처리할 한 줄 태스크 정의 (답장 작성은 안 함)
+- 결과는 콘솔 출력
+- 답장 작성·발송은 학습자가 직접 LinkedIn에서 처리
 ```
 
 ## 페르소나 통합 (선택)
