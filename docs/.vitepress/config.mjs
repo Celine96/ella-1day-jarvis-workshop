@@ -42,11 +42,9 @@ export default defineConfig({
       {
         text: 'Part 3 — 자비스 24/7 작동',
         items: [
-          { text: '3-1. 쓰기 권한 + /inbox-triage', link: '/part3/3-1-write-permission' },
-          { text: '3-2. 회의록 + /meeting-recap', link: '/part3/3-2-meeting-recap' },
-          { text: '3-3. 본인 옵션 채널 1개', link: '/part3/3-3-option-channel' },
-          { text: '3-4. 자동 routine 등록', link: '/part3/3-4-automation' },
-          { text: '3-5. 권한 회수 + 다음 단계', link: '/part3/3-5-handoff' },
+          { text: '3-1. 메일·회의록 Q3 위임 — /inbox-triage · /meeting-recap', link: '/part3/3-1-write-permission' },
+          { text: '3-2. 자동 routine — Q3 위임 안정화', link: '/part3/3-4-automation' },
+          { text: '3-3. 권한 회수 + 다음 단계', link: '/part3/3-5-handoff' },
         ]
       },
       {

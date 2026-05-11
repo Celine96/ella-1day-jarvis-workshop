@@ -1,6 +1,6 @@
 # 2-2. MCP 연결 : Gmail · Calendar 읽기 권한
 
-::: tip Step 6 / 13 · Part 2
+::: tip Step 6 / 11 · Part 2
 이 챕터에서 — **자비스를 본인 Google Calendar와 Gmail에 연결해, 첫 실시간 데이터를 함께 읽어봅니다.**
 :::
 

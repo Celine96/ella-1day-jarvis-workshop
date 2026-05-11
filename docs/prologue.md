@@ -74,7 +74,7 @@
 |---|---|---|
 | **Part 1 — 자비스 정체성** | 자비스 작명 + 회사·우선순위 인터뷰로 페르소나 초안 자동 작성 | 자비스 페르소나<br>`.claude/agents/{이름}.md` |
 | **Part 2 — 자비스 깨우기** | Gmail·Calendar 본인 계정 연결<br>**매일 브리핑·다음 회의 준비·주간 회고**를 본인 데이터로 첫 실행 | 운영 커맨드 3종<br>`/morning-brief`<br>`/meeting-prep`<br>`/weekly-review` |
-| **Part 3 — 자비스 24/7 작동** | **받은편지함 정리·회의록 처리** 추가<br>옵션 채널 1개 연결<br>자동 routine 등록 → 24/7 작동 시작 | 운영 커맨드 2종 (`/inbox-triage` · `/meeting-recap`)<br>+ 자동 routine 2종<br>+ 옵션 채널 1개 |
+| **Part 3 — 자비스 24/7 작동** | **본인 일의 Q3 위임 사분면을 자비스에 맡기는 단계**<br>받은편지함 + 회의록의 Q3 식별·추천<br>자동 routine 등록 → 24/7 안정화 | 운영 커맨드 2종 (`/inbox-triage` · `/meeting-recap`)<br>+ 자동 routine 2종 |
 
 **Part 2** — 본인 데이터로 첫 결과를 받는 순간. **Part 3** — 자비스가 24/7로 작동 시작.
 

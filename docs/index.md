@@ -31,7 +31,7 @@ features:
     linkText: Part 2로
   - icon: ⚙️
     title: Part 3 — 자비스 24/7 작동
-    details: /inbox-triage, 회의록, 옵션 채널, 자동 routine 등록
+    details: 메일·회의록 Q3 위임 + 자동 routine으로 본인 일 Q3 정리를 자비스에 맡기는 단계
     link: /part3/3-1-write-permission
     linkText: Part 3로
   - icon: 📚

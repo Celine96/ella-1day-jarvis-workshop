@@ -24,4 +24,4 @@ description: /meeting-recap 운영 커맨드 함께 살펴보기 + 첫 실행
 
 `/meeting-recap` 첫 실행 + 결과 검토가 끝나면 다음 안내를 출력합니다:
 
-> "회의록 정리 완료. 이제 본인 옵션 채널 1개를 자비스에 추가할게요. `/3-3-connect-option-channel`을 입력해주세요."
+> "회의록 정리 완료. 이제 자동 routine으로 등록해 본인이 매일 호출 안 해도 자비스가 알아서 Q3를 정리하는 상태로 만들게요. `/3-4-register-daily-routine`을 입력해주세요."
